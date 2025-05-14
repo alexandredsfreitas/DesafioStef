@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "U2PwFsG0dIc=",
+  "success": true,
+  "projectFilePath": "/Users/alexandredsfreitas/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8/Questao1/Questao1.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexandredsfreitas/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/alexandredsfreitas/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/alexandredsfreitas/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.36/microsoft.netcore.app.host.osx-arm64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

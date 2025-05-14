@@ -1,0 +1,17 @@
+/Users/alexandredsfreitas/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8/Questao2/bin/Debug/net6.0/Questao2
+/Users/alexandredsfreitas/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8/Questao2/bin/Debug/net6.0/Questao2.deps.json
+/Users/alexandredsfreitas/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8/Questao2/bin/Debug/net6.0/Questao2.runtimeconfig.json
+/Users/alexandredsfreitas/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8/Questao2/bin/Debug/net6.0/Questao2.dll
+/Users/alexandredsfreitas/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8/Questao2/bin/Debug/net6.0/Questao2.pdb
+/Users/alexandredsfreitas/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8/Questao2/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/alexandredsfreitas/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8/Questao2/obj/Debug/net6.0/Questao2.csproj.AssemblyReference.cache
+/Users/alexandredsfreitas/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8/Questao2/obj/Debug/net6.0/Questao2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandredsfreitas/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8/Questao2/obj/Debug/net6.0/Questao2.AssemblyInfoInputs.cache
+/Users/alexandredsfreitas/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8/Questao2/obj/Debug/net6.0/Questao2.AssemblyInfo.cs
+/Users/alexandredsfreitas/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8/Questao2/obj/Debug/net6.0/Questao2.csproj.CoreCompileInputs.cache
+/Users/alexandredsfreitas/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8/Questao2/obj/Debug/net6.0/Questao2.csproj.Up2Date
+/Users/alexandredsfreitas/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8/Questao2/obj/Debug/net6.0/Questao2.dll
+/Users/alexandredsfreitas/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8/Questao2/obj/Debug/net6.0/refint/Questao2.dll
+/Users/alexandredsfreitas/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8/Questao2/obj/Debug/net6.0/Questao2.pdb
+/Users/alexandredsfreitas/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8/Questao2/obj/Debug/net6.0/Questao2.genruntimeconfig.cache
+/Users/alexandredsfreitas/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8/Questao2/obj/Debug/net6.0/ref/Questao2.dll
